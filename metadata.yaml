@@ -15,6 +15,8 @@ creator:
     url: http://www.gutenberg.org/2009/agents/39729
     wikipedia: http://en.wikipedia.org/wiki/Thomas_Clifford_Allbutt
 description: ''
+edition_identifiers:
+  edition_id: http://www.gutenberg.org/ebooks/38943#Science-and-Medieval-ThoughtThe-Harveian-Oration-Delivered-Before-the-Royal-College-of-Physic_
 gutenberg_issued: '2012-02-21'
 gutenberg_type: Text
 identifiers:
